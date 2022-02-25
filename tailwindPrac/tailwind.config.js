@@ -5,6 +5,9 @@ module.exports = {
     container: {
       center: true,
     },
+    gridTemplateRows: {
+      homePage: `140px 1fr`,
+    },
   },
   plugins: [],
 };
